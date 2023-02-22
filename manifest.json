@@ -25,7 +25,7 @@
     },
     "require_upload_data": true,
     "supported_hpc": ["keeling_community", "anvil_community"],
-    "default_hpc": "keeling_community"
+    "default_hpc": "keeling_community",
     "param_rules": {
         "name": {
             "type": "string_input",
